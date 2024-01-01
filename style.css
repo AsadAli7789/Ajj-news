@@ -1,0 +1,171 @@
+.asad {
+    text-decoration: none;
+}
+.asad :visited{
+    text-decoration: none;
+}
+.asad:hover{
+    text-decoration: none;
+    color: orange;
+}
+.asad :active {
+text-decoration: none;
+}
+.asad{
+    color: black;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+#her{
+text-align: center;
+justify-content: center;
+
+}
+header {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+
+
+}
+.asada {
+    text-align: center;
+    justify-content: center;
+}
+.asadf ul {
+    list-style: none;
+}
+.asadf ul li {
+    list-style: none;
+}
+.asadf ul li a {
+    text-decoration: none;
+    color: black;
+}
+.asadf ul li a:visited{
+    text-decoration: none;
+
+}
+.asadf ul li a:hover{
+    text-decoration: none;
+}
+.asadf ul li a:active{
+    text-decoration: none;
+}.asadc ul {
+    list-style: none;
+}
+.asadc ul li {
+    list-style: none;
+}
+.asadc ul li a {
+    text-decoration: none;
+    color: black;
+}
+.asadc ul li a:visited{
+    text-decoration: none;
+
+}
+.asadc ul li a:hover{
+    text-decoration: none;
+}
+.asadc ul li a:active{
+    text-decoration: none;
+}
+.right{
+    flex-direction: column;
+}
+.right li {
+    list-style-type: none;
+}
+.center{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+      }
+.center a{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center a :hover{
+    color: blue;
+
+}
+.right{
+    border: 5px;
+    border-color: black;
+}
+.right h1{
+    text-align: left;
+
+}
+.left {
+    position: absolute;
+    top: 40%;
+    right: 16px;
+    font-size: 18px;
+    
+}
+.left li a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left li a:hover {
+    text-decoration: none;
+    color: blue;
+}
+.left li a :visited{
+    text-decoration:none ;
+}
+.left li a :active{
+    text-decoration: none;
+}
+
+.right 
+    
+    {position: absolute;
+        top: 40%;}
+
+
+.right li a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right li a:hover {
+    text-decoration: none;
+    color: blue;
+}
+.right li a :visited{
+    text-decoration:none ;
+}
+.right li a :active
+     {text-decoration: none;}
+.right li img{
+    border: 1px solid black;
+    width: 275px;
+    border-radius: 1px;
+}
+.center a{
+    text-decoration: none;
+}     
+.center a :visited{
+    text-decoration: none;
+}
+.center a:hover{
+    text-decoration: none;
+    color: orange;
+}
+.center a:active {
+text-decoration: none;
+}
+#red, #brown{
+    border: 1px solid black;
+}
